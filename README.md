@@ -19,8 +19,6 @@ In essence, computer vision technology gives a way for computers to envision and
 
 The application of this technology is even more common in manufacturing industries, enhancing quality control processes in production by identifying defects or inconsistencies in the manufacturing process, or by monitoring inventory levels, optimising the logistics and supply chain processes. Even service-oriented organisations, including NGOs, can also harness the potential of computer vision. For instance, in disaster-stricken areas, computer vision analyses satellite imagery, identifies damaged infrastructure, and assists in prioritising relief efforts and resource allocation.
 
-The potential applications of computer vision are so vast that it's hard to find an industry that wouldn't benefit from it. We invite you to check Daniela's song recommendation application, Moodify, which uses computer vision to infer users' moods and recommend songs that match their emotional state.
-
 Our Invisibility Cloak project, while whimsical at its core, is a testament to the versatility and potential of computer vision. It's not just about making things disappear; it's about the endless possibilities that open up when we apply creative thinking to technology. In the realm of business, these applications can enhance customer experiences, improve safety, and open new avenues for engagement and learning, proving that sometimes, the most unusual ideas can hold the key to real-world solutions.
 
 In the end, it's not just about the code or the cloak. It's about the curiosity and creativity that drive us to explore, experiment, and envision a world where technology doesn't just solve problems but also inspires wonder.
